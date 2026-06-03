@@ -59,15 +59,6 @@ A Flutter package published on pub.dev: a **gyroscope-reactive Liquid Glass bord
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arihantsingh04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihantsingh04&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 <div align="center">
   <sub>B.Tech IT @ ABES Engineering College (2023–2027) · Open to internships & freelance · <a href="mailto:arihants2004@gmail.com">arihants2004@gmail.com</a></sub>
 </div>
