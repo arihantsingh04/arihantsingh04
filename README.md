@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/184069366?v=4" width="100px" style="border-radius: 50%;" />
-
 <h2>Hey, I'm Arihant Singh 👋</h2>
 
 **Flutter & Android Engineer** · 1.5+ yrs in production · pub.dev author · EdTech & SDUI
