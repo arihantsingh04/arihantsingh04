@@ -8,8 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arihantsingh04)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arihants2004@gmail.com)
 [![pub.dev](https://img.shields.io/badge/pub.dev-liquidglass__light-0175C2?style=flat-square&logo=dart&logoColor=white)](https://pub.dev/packages/liquidglass_light)
-[![Profile Views](https://komarev.com/ghpvc/?username=arihantsingh04&style=flat-square&color=blueviolet)](https://github.com/arihantsingh04)
-
+[![Profile Views](https://komarev.com)](https://github.com/arihantsingh04)
 </div>
 
 ---
